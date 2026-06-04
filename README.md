@@ -343,8 +343,7 @@ your reference resistor for best accuracy in the ohmmeter mode.
 .
 |-- multimeter.ino        # Main firmware (this file)
 |-- README.md             # This document
-|-- docs/                 # Schematics, pin diagrams, calibration notes
-`-- media/                # Photographs and screen captures (optional)
+|-- docs/                 # Schematics
 ```
 
 ---

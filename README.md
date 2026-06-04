@@ -351,6 +351,6 @@ your reference resistor for best accuracy in the ohmmeter mode.
 
 ## Author
 
-**Abdelrahman**
+**Abdelrahman Ibrahim** **Ali Essam** **Eyad Hany** **Hossam Eldin Ibrahim** 
 Final-Year Computer Engineering &mdash; Arab Academy for Science, Technology and Maritime Transport (AAST)
-Graduation project submission.
+Embedded Systems submission.
